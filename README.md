@@ -62,7 +62,7 @@ The project follows the **MVVM** architecture pattern with clear separation of c
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-repo/crime-tracker-app.git
+   git clone https://github.com/jimmyboy8930/crime-app.git
    ```
 
 2. Open the project in Android Studio.
